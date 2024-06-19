@@ -1,0 +1,19 @@
+Partlist exported from C:/Users/peter/OneDrive/BME/5. félév/Mikrovezérlők alkalmazása/Projekt/Áramkör/untitled.sch at 12/8/2023 11:49 AM
+
+Qty Value           Device          Package                        Parts                   Description                                       MF MPN                  OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+4                   10-XX           B3F-10XX                       LAP, RESET, START, STOP OMRON SWITCH                                         B3F-1000             176432     36M3542   72                    
+1                   LED5MM          LED5MM                         POWER                   LED                                                                                            93                    
+1                   PN61729         PN61729                        X1                      BERG USB connector                                                        unknown    unknown   0                     
+1   100R            R-EU_R1206      R1206                          R10                     RESISTOR, European symbol                                                                      41         R          
+4   100n            C-EUC1206       C1206                          C1, C2, C3, C4          CAPACITOR, European symbol                                                                     54         C          
+4   10k             R-EU_R1206      R1206                          R1, R2, R7, R8          RESISTOR, European symbol                                                                      41         R          
+3   10u             CPOL-EUSMCD     SMC_D                          C5, C10, C11            POLARIZED CAPACITOR, European symbol                                                           0          C          
+1   12MHz           CRYSTALHC49U70  HC49U70                        Q1                      CRYSTAL                                                                   unknown    unknown   7                     
+2   15p             C-EUC1206       C1206                          C6, C7                  CAPACITOR, European symbol                                                                     54         C          
+1   32k             CRYSTALTC26H    TC26H                          Q2                      CRYSTAL                                                                   unknown    unknown   6                     
+1   330R            R-EU_R1206      R1206                          R5                      RESISTOR, European symbol                                                                      41         R          
+2   33p             C-EUC1206       C1206                          C8, C9                  CAPACITOR, European symbol                                                                     54         C          
+2   4K7             R-EU_R1206      R1206                          R6, R9                  RESISTOR, European symbol                                                                      41         R          
+1   ICSPI2CTUSKE    ICSPI2CTUSKE    HDRV4W64P254_1X4_1016X508X838B CON1                                                                                                                                         
+1   PIC24FJ256GB108 PIC24FJ256GB108 TQFP80-12X12                   IC1                     PIC24FJ256GB108 edit this description                PIC24FJ256GB108-I/PT 1576869    54M5131   0                     
+1   REG1117         REG1117         SOT223                         IC2                     800mA and 1A Low Dropout (LDO) Positive Regulator    REG1117              1097566    14P6981   49                    

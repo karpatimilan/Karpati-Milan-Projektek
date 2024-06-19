@@ -1,0 +1,3 @@
+C:\Users\peter\OneDrive\Dokumentumok\MikroProjekt\MikroProjekt\x64\Debug\MikroProjekt.vcxproj.AssemblyReference.cache
+C:\Users\peter\OneDrive\Dokumentumok\MikroProjekt\MikroProjekt\x64\Debug\MikroProjekt.Form1.resources
+C:\Users\peter\OneDrive\Dokumentumok\MikroProjekt\MikroProjekt\x64\Debug\MikroProjekt.vcxproj.GenerateResource.cache

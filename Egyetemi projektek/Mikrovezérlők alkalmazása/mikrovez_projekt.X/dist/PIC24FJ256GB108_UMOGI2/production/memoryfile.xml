@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/PIC24FJ256GB108_UMOGI2/production/mikrovez_projekt.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>590</used>
+      <free>15794</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>261876</length>
+      <used>18291</used>
+      <free>243585</free>
+    </memory>
+  </executable>
+</project>

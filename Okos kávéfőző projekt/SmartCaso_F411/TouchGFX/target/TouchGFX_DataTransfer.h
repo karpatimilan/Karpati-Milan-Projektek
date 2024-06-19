@@ -1,0 +1,24 @@
+/*
+ * TouchGFX_DataTransfer.h
+ *
+ *  Created on: Mar 8, 2024
+ *      Author: peter
+ */
+
+
+#ifndef TOUCHGFX_DATATRANSFER_H
+#define TOUCHGFX_DATATRANSFER_H
+
+#include <stdint.h>
+
+#ifdef __cplusplus
+ extern "C" {
+#endif
+
+void touchgfxDisplayDriverTransmitBlock(uint8_t* pixels, uint16_t x, uint16_t y, uint16_t w, uint16_t h);
+uint32_t touchgfxDisplayDriverTransmitActive(void);
+
+#ifdef __cplusplus
+}
+#endif
+#endif

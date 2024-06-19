@@ -1,0 +1,6 @@
+../Core/Src/main.c:96:5:main	1
+../Core/Src/main.c:171:6:SystemClock_Config	3
+../Core/Src/main.c:221:6:InitLoadCells	1
+../Core/Src/main.c:235:6:InitPIDController	1
+../Core/Src/main.c:254:6:HAL_TIM_PeriodElapsedCallback	3
+../Core/Src/main.c:279:6:Error_Handler	1

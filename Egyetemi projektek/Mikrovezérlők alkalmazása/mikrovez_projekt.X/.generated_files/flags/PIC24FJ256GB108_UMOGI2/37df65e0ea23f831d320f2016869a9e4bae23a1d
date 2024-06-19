@@ -1,0 +1,1 @@
+ -c -mcpu=$(MP_PROCESSOR_OPTION)      -g -D__DEBUG     -omf=elf -DXPRJ_PIC24FJ256GB108_UMOGI2=$(CND_CONF)    $(COMPARISON_BUILD)  -fno-short-double -O0 -falign-arrays -I"../demo_src" -I"usb/inc" -I"../../../../../../bsp/exp16/pic24fj256gb110_pim" -I"." -msmart-io=1 -msfr-warn=off    -mdfp="${DFP_DIR}/xc16"C:\Users\peter\MPLABXProjects\mikrovez_projekt.X\usb\src\usb_hal_16bit.c
