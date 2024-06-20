@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pizzi</string>
+    <string name="text_your_pizza_list">Pizzák</string>
+    <string name="app_bar_title_sign_up">Regisztráció</string>
+    <string name="some_error_message">Error</string>
+    <string name="app_bar_title_todos">Your todos</string>
+    <string name="textfield_label_email">Email</string>
+    <string name="textfield_label_password">Jelszó</string>
+    <string name="textfield_label_confirm_password">Jelszó megerősítése</string>
+    <string name="button_text_sign_up">Regisztárció</string>
+    <string name="button_text_no_account">Még nincs fiókom.</string>
+    <string name="priority_title_none">none</string>
+    <string name="button_text_sign_in">Bejelentkezés</string>
+    <string name="button_text_to_cart">Kosárba</string>
+    <string name="app_bar_title_cart">Korsár</string>
+    <string name="text_empty_cart">A kosár üres</string>
+    <string name="button_text_pay">Fizetés:</string>
+</resources>
